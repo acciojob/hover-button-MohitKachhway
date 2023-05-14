@@ -3,7 +3,7 @@
 #btn{
 	color: white;
 	background: black;
-	border: 0px outset rgb(255,255,255);
+	border: 0px none rgb(255,255,255);
 	border-radius: 5px;
 	
 }
